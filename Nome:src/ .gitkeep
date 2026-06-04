@@ -1,0 +1,6 @@
+pipeline-raiz-folha/
+├── data/raw/          ← CSVs brutos da Lúcia Lima
+├── src/               ← Código Python do ETL
+├── notebooks/         ← Jupyter pra análise
+├── docs/              ← Documentação 
+└── README.md          ← Cartão de visita do projeto
