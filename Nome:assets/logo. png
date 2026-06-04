@@ -1,0 +1,36 @@
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="Raiz & Folha">
+</p>
+
+# Pipeline de Dados - Raiz & Folha
+
+## A Dor
+Raiz & Folha perde 20% do lucro com quebra de estoque. 
+Entrada de matéria-prima e saída de produto são registradas em caderno.
+Sem rastreabilidade, sem previsão de compra, sem controle de lote.
+
+## A Solução 
+Pipeline ETL + Dashboard para:
+1. Digitalizar entrada de Lúcia Lima: peso, lote, fornecedor
+2. Rastrear produção: chá, cosméticos, óleos
+3. Alertar estoque crítico de matéria-prima
+4. Calcular custo real e margem por linha de produto
+
+## Linhas de Produto - Lúcia Lima
+**Nome científico:** Aloysia citrodora
+**Benefícios:** Calmante | Digestivo | Anti-inflamatório
+
+### 1. Alimentos/Bebidas
+Chá em sachê, Folhas secas, Extratos
+
+### 2. Cosméticos
+Creme de pele, Sabonete, Creme de mão, Óleo essencial
+
+### 3. Aromatizantes
+Difusor, Spray ambiente
+
+## ROI Projetado
+Economia de R$ 20k/mês com redução de 15% em perdas e compra otimizada.
+
+## Stack
+Azure SQL | Python | Power BI | GitHub Actions
